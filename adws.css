@@ -1,0 +1,85 @@
+body{
+    background-color:white;
+
+}
+
+h1 {
+    color:red;
+    padding: 10px;
+    margin: 20px;
+    font-size: 50px;
+}
+
+hr {
+    background-color:blue;
+    padding: 20px;
+    margin: 10px;
+    border-color: red;
+    
+
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+h2 {
+
+    color: blue;
+    padding: 10px;
+    margin: 5px;
+    font-size: 30px;
+
+
+}
+
+nav a{
+    display: block;
+
+}
+
+.mybutton {
+    display: block;
+}
+
+
+.mybutton {
+    display: block;
+    background-color: red;
+    padding: 15px 30px;
+    text-align: center;
+    
+
+
+}
+
+.navbar {
+    border: 20px solid red;
+    font-size: 25px;
+    
+    
+
+    
+}
+
+
+img {
+    border: 10px solid red;
+}
+    
+
+header {
+    border: 20px solid red;
+
+}
+
+.container {
+  font-size: 30px;
+  border: 10px solid red;
+  line-height: 1em;
+}
+
+
+
+
